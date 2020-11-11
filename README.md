@@ -1,2 +1,2 @@
-# Repository
-Guess a number
+#репозиторий
+просто хранилище
